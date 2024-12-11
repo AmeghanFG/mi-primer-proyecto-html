@@ -1,1 +1,6 @@
 Lista de temas vistos
+
+1.- Sistemas Operativos
+2.- Terminal y comandos
+3.- Git y github
+4.- HTML5
